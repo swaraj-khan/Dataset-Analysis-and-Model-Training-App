@@ -15,6 +15,8 @@ This Streamlit app enables interactive analysis and preprocessing of CSV dataset
 2. Run the app: `streamlit run app.py`
 3. Upload a CSV file and interact with the app.
 
+or you can click on the link here - https://dataset-analysis-and-model-training-app.streamlit.app/
+
 ## Requirements
 
 - Python 3.7 or higher
